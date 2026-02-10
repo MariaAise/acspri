@@ -11,13 +11,11 @@ metaLinks:
 
 **Intro to LLM**
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/LLM%20Ecosystem.pdf" %}
+{% file src="../../.gitbook/assets/LLM Ecosystem.pdf" %}
 
 **Prompting**
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/Prompt_Engineering_Full_Deck.pdf" %}
-
-
+{% file src="../../.gitbook/assets/Prompt_Engineering_Full_Deck.pdf" %}
 
 ***
 

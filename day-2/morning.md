@@ -11,13 +11,19 @@ metaLinks:
 
 **LLM Architecture**
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/d2_llm_architecture.pdf" %}
+{% file src="../.gitbook/assets/d2_llm_architecture.pdf" %}
 
 **Embeddings and Vector Databases**
+
+
 
 {% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/d2_vectorstores.pdf" %}
 
 **Post-training: Improving Results with Pretrained Models**
+
+{% file src="../.gitbook/assets/d2_post-training.pdf" %}
+
+
 
 {% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/d2_post-training.pdf" %}
 
