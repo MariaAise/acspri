@@ -21,9 +21,15 @@ metaLinks:
 
 {% file src="../.gitbook/assets/d2_post-training.pdf" %}
 
+**SFT with Instruct models**
+
+{% embed url="https://github.com/MariaAise/acspri_llm/blob/main/code/Instruct_SFT.md" %}
+
+**PEFT LORA demo**
+
+{% embed url="https://github.com/MariaAise/llm_guide/blob/main/codebook/day2/peft%20_finetune_demo.ipynb" %}
 
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/d2_post-training.pdf" %}
 
 ***
 
