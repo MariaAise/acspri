@@ -21,3 +21,4 @@
 * [📚 Files](day-3/evening.md)
 * [🦙 Running LLM Locally](day-3/afternoon.md)
 * [📚 Morning](day-3/morning.md)
+* [Additional](day-3/additional.md)

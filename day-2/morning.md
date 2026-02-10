@@ -15,9 +15,7 @@ metaLinks:
 
 **Embeddings and Vector Databases**
 
-
-
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/d2_vectorstores.pdf" %}
+{% file src="../.gitbook/assets/d2_embeddings.pdf" %}
 
 **Post-training: Improving Results with Pretrained Models**
 
