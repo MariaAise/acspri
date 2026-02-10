@@ -11,11 +11,11 @@ metaLinks:
 
 **Retrieval-Augmented Generation: From Documents to Grounded Answers**
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/rag.pdf" %}
+{% file src="../.gitbook/assets/rag.pdf" %}
 
 **LLM Agents: A Practical Introduction**
 
-{% @github-files/github-code-block url="https://github.com/MariaAise/acspri_llm/blob/main/slides/agents.pdf" %}
+{% file src="../.gitbook/assets/agents.pdf" %}
 
 **Planning your LLM project: data, modeling, evaluation of results**
 
@@ -23,7 +23,7 @@ metaLinks:
 
 
 
-Q\&A with Gemini and ChromaDB
+**Q\&A with Gemini and ChromaDB**
 
 {% embed url="https://colab.research.google.com/github/MariaAise/acspri_llm/blob/main/code/Vectordb_with_chroma.ipynb" %}
 

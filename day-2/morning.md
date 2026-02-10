@@ -49,7 +49,9 @@ Pinecone
 
 {% embed url="https://colab.research.google.com/github/MariaAise/acspri_llm/blob/main/code/Intro_to_ChromaDB.ipynb" %}
 
+PEFT - Fine-Tuning
 
+{% embed url="https://github.com/MariaAise/acspri_llm/blob/main/code/peft__finetune_demo.ipynb" %}
 
 
 
