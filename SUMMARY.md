@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Outline of the course](README.md)
-  * [📚 Google Colab Free Tier limits](readme/google-colab-free-tier-limits.md)
+  * [📚 Google Colab Free Tier limits](readme/google-colab-free-tier-limits/README.md)
+    * [Contact and get in touch](readme/google-colab-free-tier-limits/contact-and-get-in-touch.md)
   * [AI Systems](readme/ai-systems.md)
 * [Google Colab](https://colab.research.google.com/)
 * [📚 Resources](pre-course-survey.md)
