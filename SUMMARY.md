@@ -4,7 +4,7 @@
   * [📚 Google Colab Free Tier limits](readme/google-colab-free-tier-limits/README.md)
     * [Contact and get in touch](readme/google-colab-free-tier-limits/contact-and-get-in-touch.md)
   * [AI Systems](readme/ai-systems.md)
-  * [⚒️ AI tools](readme/ai-tools.md)
+  * [⚒️ AI resources](readme/ai-resources.md)
 * [Google Colab](https://colab.research.google.com/)
 * [📚 Resources](pre-course-survey.md)
 
