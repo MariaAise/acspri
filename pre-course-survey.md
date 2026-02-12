@@ -4,23 +4,6 @@ description: >-
   used throughout the course. It focuses on the mechanics of large language
   models—architecture, training, embeddings, retriev
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/qr0dOvSort5I2CoftsCl/pre-course-survey
@@ -39,6 +22,8 @@ metaLinks:
 * Google Colab — [https://colab.research.google.com](https://colab.research.google.com/)
 
 ***
+
+
 
 ### Foundations (Key Papers)
 

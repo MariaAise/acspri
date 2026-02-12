@@ -99,4 +99,6 @@ Intro to HF hub
 
 **Intro to Hugging Face**
 
+{% embed url="https://colab.research.google.com/github/MariaAise/acspri_llm/blob/main/code/into_HF.ipynb" %}
+
 {% embed url="https://colab.research.google.com/github/MariaAise/dl_intro/blob/main/codebook/day1/intro_transformer.ipynb" %}
